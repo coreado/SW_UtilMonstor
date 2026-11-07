@@ -8,3 +8,7 @@ logs/
 .vscode/
 Thumbs.db
 Desktop.ini
+
+# MD → HTML 탭: 처음 변환할 때 자동으로 설치되는 Python 부품
+modules/MdToHtml/_lib/
+__pycache__/
