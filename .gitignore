@@ -1,0 +1,10 @@
+# 실행 중에 생기는 개인 설정/로그 (텔레그램 토큰이 들어갈 수 있음 - 절대 올리지 말 것)
+config/
+logs/
+*.log
+
+# 편집기/OS 잡파일
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
